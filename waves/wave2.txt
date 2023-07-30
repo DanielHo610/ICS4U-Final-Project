@@ -1,0 +1,9 @@
+r1
+fastenemyr1
+fastenemyr1
+r2
+fastenemyr2
+largeenemyr2
+damageenemyr2
+r3
+waveclearr3
